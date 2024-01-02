@@ -1,0 +1,7 @@
+{
+  "name": "ionic_angular17_tutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
